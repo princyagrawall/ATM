@@ -21,6 +21,7 @@ This project allows a user to log in with a PIN and perform basic ATM operations
   └── balance.txt
 
 atm.c → Main program file
+
 balance.txt → Stores the current balance
 
 If balance.txt is missing, the program automatically starts with balance = 0.
